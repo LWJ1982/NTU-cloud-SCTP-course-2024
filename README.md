@@ -68,7 +68,7 @@
 |   14   |        |      |
 |   15   |        |      |
 |   16   |        |      |
-|   17   | Module 3 - Version Control - Git |      |
+|   17   | Module 3 - Version Control - Workflow - Git |      |
 |   18   | Module 3 - Microservices and Containerized Application |      |
 |   19   | Module 3 - Microservices and Serverless Application |      |
 |   20   | Module 3 - CICD Pipeline for Containerized Applications |      |
