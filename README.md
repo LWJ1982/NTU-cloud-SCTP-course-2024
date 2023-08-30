@@ -73,7 +73,7 @@
 |   19   |        |      |
 |   20   |        |      |
 |   21   |        |      |
-|   22   |        |      |
+|   22   | CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
 |   23   | Complete CICD Pipeline with Containerised Application |      |
 |   24   | Complete CICD Pipeline with Serverless Application |      |
 |   25   | Capstone Project Coaching Session |      |
