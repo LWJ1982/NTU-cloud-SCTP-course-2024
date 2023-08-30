@@ -71,9 +71,9 @@
 |   17   |        |      |
 |   18   |        |      |
 |   19   |        |      |
-|   20   |        |      |
-|   21   |        |      |
+|   20   | CICI Pipeline for Containerized Applications |      |
+|   21   | CICI Pipeline for Serverless Applications |      |
 |   22   | CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
-|   23   | Complete CICD Pipeline with Containerised Application |      |
+|   23   | Complete CICD Pipeline with Containerized Application |      |
 |   24   | Complete CICD Pipeline with Serverless Application |      |
 |   25   | Capstone Project Coaching Session |      |
