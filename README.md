@@ -30,9 +30,7 @@ All Lesson Materials:
 | 24 | Principles in Cloud Arch. Design - Reliability | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.12-principles-in-cloud-architecture-design-reliability) |
 | 25 | Principles in Cloud Arch. Design - Performance | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.13-principles-in-cloud-architecture-design-performance) |
 | 26 | Principles in Cloud Arch. Design - Cost Optimization | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.14-principles-in-cloud-architecture-design-cost-optimization) |
-| 27 | Principles in
-
- Cloud Arch. Design - Operational Excellence | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.15-principles-in-cloud-architecture-design-operational-excellence) |
+| 27 | Principles in Cloud Arch. Design - Operational Excellence | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.15-principles-in-cloud-architecture-design-operational-excellence) |
 | 28 | Infrastructure as Code | [Link](https://github.com/su-ntu-ctp/6m-cloud-2.16-infrastructure-as-code) |
 | 29 | Introduction to GIT I | [Link](https://github.com/su-ntu-ctp/6m-cloud-3.1-introduction-to-git-i) |
 | 30 | Introduction to GIT II | [Link](https://github.com/su-ntu-ctp/6m-cloud-3.2-introduction-to-git-ii) |
