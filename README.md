@@ -74,6 +74,6 @@
 |   20   |        |      |
 |   21   |        |      |
 |   22   |        |      |
-|   23   |        |      |
-|   24   | Complete CICD Pipeline with Containerised Application |      |
-|   25   | Complete CICD Pipeline with Serverless Application |      |
+|   23   | Complete CICD Pipeline with Containerised Application |      |
+|   24   | Complete CICD Pipeline with Serverless Application |      |
+|   25   | Capstone Project Coaching Session |      |
