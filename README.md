@@ -75,5 +75,5 @@
 |   21   |        |      |
 |   22   |        |      |
 |   23   |        |      |
-|   24   |        |      |
-|   25   |        |      |
+|   24   | Complete CICD Pipeline with Containerised Application |      |
+|   25   | Complete CICD Pipeline with Serverless Application |      |
