@@ -1,0 +1,27 @@
+# CHANGE-TO-YOURNAME-animated-train
+service: animated-train
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-1
+  stage: ${env:ENV}
+
+functions:
+  api:
+    handler: index.handler
+    events:
+      - httpApi:
+          path: /
+          method: get
+
+  error:
+    handler: index.error
+    events:
+      - httpApi:
+          path: /error
+          method: get
+
+plugins:
+  - serverless-offline
