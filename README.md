@@ -50,7 +50,7 @@
 
 **Coaching Session**
 
-| Number | Coaching Topic | Description |
+| No. | Coaching Topic | Description |
 |--------|----------------|-------------|
 |   1    | Module 1 - Prev Material + Github | Introduction to GitHub and its importance in version control. |
 |   2    | Module 1 - Prev Material + Developer Tool Setup | Setting up essential developer tools for a seamless workflow including GIT CLI, SSH, Installing Docker, NPM and Node |
