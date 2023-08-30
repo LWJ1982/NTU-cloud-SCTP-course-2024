@@ -71,8 +71,8 @@
 |   17   |        |      |
 |   18   |        |      |
 |   19   |        |      |
-|   20   | CICI Pipeline for Containerized Applications |      |
-|   21   | CICI Pipeline for Serverless Applications |      |
+|   20   | CICD Pipeline for Containerized Applications |      |
+|   21   | CICD Pipeline for Serverless Applications |      |
 |   22   | CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
 |   23   | Complete CICD Pipeline with Containerized Application |      |
 |   24   | Complete CICD Pipeline with Serverless Application |      |
