@@ -1,4 +1,4 @@
-# Cloud Infrastructure Lesson Plan
+# Cloud Infrastructure Engineering Program
 
 **Lesson Materials**:
 
