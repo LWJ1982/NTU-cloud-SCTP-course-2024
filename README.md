@@ -1,6 +1,6 @@
 # Cloud Infrastructure Lesson Plan
 
-All Lesson Materials:
+**Lesson Materials**:
 
 | No. | Module Title | GitHub Repository |
 |-----|--------------|-------------------|
@@ -47,5 +47,35 @@ All Lesson Materials:
 | 41 | Secret Management | [Link](https://github.com/su-ntu-ctp/6m-cloud-3.13-secret-management) |
 | 42 | Package Vulnerability Scan | [Link](https://github.com/su-ntu-ctp/6m-cloud-3.14-package-vulnerability-scan) |
 | 43 | Application Logging - CloudWatch | [Link](https://github.com/su-ntu-ctp/6m-cloud-3.15-application-logging-cloudwatch) |
+
+**Coaching Session**
+
+| Number | Lesson | Link |
+|--------|--------|------|
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
+|        |        |      |
 
 
