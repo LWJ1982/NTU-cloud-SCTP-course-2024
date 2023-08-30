@@ -56,15 +56,15 @@
 |   2    | Module 1 - Prev Material + Developer Tool Setup |      |
 |   3    | Module 1 - Prev Material + Simple Node Application |      |
 |   4    | Module 1 - Prev Material + Simple Node Application with Express |      |
-|   5    | Module 1 -  |      |
-|   6    | Module 2 -  |      |
-|   7    | Module 2 -  |      |
-|   8    | Module 2 -  |      |
-|   9    | Module 2 -  |      |
-|   10   | Module 2 -  |      |
-|   11   | Module 2 -  |      |
-|   12   | Module 2 -  |      |
-|   13   | Module 2 -  |      |
+|   5    | Module 1 - AWS - IAM, User, Role, Policy + Billing Management|      |
+|   6    | Module 2 - AWS - IAM, User, Role, Policy, Region, Availability Zones + AWS S3|      |
+|   7    | Module 2 - AWS - Compute - EC2 - ElasticBeanstalk - Lambda |      |
+|   8    | Module 2 - AWS - Networking - VPC - Subnets |      |
+|   9    | Module 2 - AWS - Messaging - SQS - SNS |      |
+|   10   | Module 2 - AWS - Database - RDS - DynamoDB |      |
+|   11   | Module 2 - Infrastructure as Code with Terraform 1|      |
+|   12   | Module 2 - Infrastructure as Code with Terraform 2|      |
+|   13   | Module 2 - Infrastructure as Code with Terraform 3|      |
 |   14   | Module 2/3 - Cloud Certification Self-Study |      |
 |   15   | Module 2/3 - Cloud Certification Self-Study |      |
 |   16   | Module 3 - Version Control - Workflow - Git |      |
