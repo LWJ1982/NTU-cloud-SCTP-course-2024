@@ -50,32 +50,30 @@
 
 **Coaching Session**
 
-| Number | Lesson | Link |
+| Number | Coaching Topic | Link |
 |--------|--------|------|
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-|        |        |      |
-
-
+|   1    | Prev Material + Github |      |
+|   2    | Prev Material + Developer Tool Setup |      |
+|   3    | Prev Material + Simple Node Application |      |
+|   4    | Prev Material + Simple Node Application with Express |      |
+|   5    |        |      |
+|   6    |        |      |
+|   7    |        |      |
+|   8    |        |      |
+|   9    |        |      |
+|   10   |        |      |
+|   11   |        |      |
+|   12   |        |      |
+|   13   |        |      |
+|   14   |        |      |
+|   15   |        |      |
+|   16   |        |      |
+|   17   |        |      |
+|   18   |        |      |
+|   19   |        |      |
+|   20   |        |      |
+|   21   |        |      |
+|   22   |        |      |
+|   23   |        |      |
+|   24   |        |      |
+|   25   |        |      |
