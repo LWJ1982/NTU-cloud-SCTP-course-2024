@@ -50,29 +50,29 @@
 
 **Coaching Session**
 
-| Number | Coaching Topic | Link |
-|--------|--------|------|
-|   1    | Module 1 - Prev Material + Github |      |
-|   2    | Module 1 - Prev Material + Developer Tool Setup |      |
-|   3    | Module 1 - Prev Material + Simple Node Application |      |
-|   4    | Module 1 - Prev Material + Simple Node Application with Express |      |
-|   5    | Module 1 - AWS - IAM, User, Role, Policy + Billing Management|      |
-|   6    | Module 2 - AWS - IAM, User, Role, Policy, Region, Availability Zones + AWS S3|      |
-|   7    | Module 2 - AWS - Compute - EC2 - ElasticBeanstalk - Lambda |      |
-|   8    | Module 2 - AWS - Networking - VPC - Subnets |      |
-|   9    | Module 2 - AWS - Messaging - SQS - SNS |      |
-|   10   | Module 2 - AWS - Database - RDS - DynamoDB |      |
-|   11   | Module 2 - Infrastructure as Code with Terraform 1|      |
-|   12   | Module 2 - Infrastructure as Code with Terraform 2|      |
-|   13   | Module 2 - Infrastructure as Code with Terraform 3|      |
-|   14   | Module 2/3 - Cloud Certification Self-Study |      |
-|   15   | Module 2/3 - Cloud Certification Self-Study |      |
-|   16   | Module 3 - Version Control - Workflow - Git |      |
-|   17   | Module 3 - Microservices and Containerized Application |      |
-|   18   | Module 3 - Microservices and Serverless Application |      |
-|   19   | Module 3 - CICD Pipeline for Containerized Applications |      |
-|   20   | Module 3 - CICD Pipeline for Serverless Applications |      |
-|   21   | Module 3 - CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
-|   22   | Module 3 - Complete CICD Pipeline with Containerized Application |      |
-|   23   | Module 3 - Complete CICD Pipeline with Serverless Application |      |
-|   24   | Module 3 - Capstone Project Coaching Session |      |
+| Number | Coaching Topic | Description |
+|--------|----------------|-------------|
+|   1    | Module 1 - Prev Material + Github | Introduction to GitHub and its importance in version control. |
+|   2    | Module 1 - Prev Material + Developer Tool Setup | Setting up essential developer tools for a seamless workflow including GIT CLI, SSH, Installing Docker, NPM and Node |
+|   3    | Module 1 - Prev Material + Simple Node Application | Building a basic Node.js application and understanding its structure. |
+|   4    | Module 1 - Prev Material + Simple Node Application with Express | Enhancing the previous Node.js app with the Express framework. |
+|   5    | Module 1 - AWS - IAM, User, Role, Policy + Billing Management | Introduction to AWS IAM, user roles, policies, and managing billing. |
+|   6    | Module 2 - AWS - IAM, User, Role, Policy, Region, Availability Zones + AWS S3 | Exploring AWS regions, availability zones, and using S3 for storage. |
+|   7    | Module 2 - AWS - Compute - EC2 - ElasticBeanstalk - Lambda | Understanding AWS compute services like EC2, Elastic Beanstalk, and Lambda. |
+|   8    | Module 2 - AWS - Networking - VPC - Subnets | Configuring AWS networking components including VPCs and subnets. |
+|   9    | Module 2 - AWS - Messaging - SQS - SNS | Exploring AWS messaging services like SQS and SNS for communication. |
+|   10   | Module 2 - AWS - Database - RDS - DynamoDB | Working with AWS database services: RDS and DynamoDB. |
+|   11   | Module 2 - Infrastructure as Code with Terraform 1 | Introduction to Infrastructure as Code (IaC) and Terraform. |
+|   12   | Module 2 - Infrastructure as Code with Terraform 2 | Writing Terraform code for resource provisioning. |
+|   13   | Module 2 - Infrastructure as Code with Terraform 3 | Advanced Terraform concepts and best practices. |
+|   14   | Module 2/3 - Cloud Certification Self-Study | Self-study tips for cloud certification exams. |
+|   15   | Module 2/3 - Cloud Certification Self-Study | Continuing self-study strategies for cloud certifications. |
+|   16   | Module 3 - Version Control - Workflow - Git | Advanced Git concepts and workflows. |
+|   17   | Module 3 - Microservices and Containerized Application | Exploring microservices architecture and containerization. |
+|   18   | Module 3 - Microservices and Serverless Application | Introduction to serverless architecture for microservices. |
+|   19   | Module 3 - CICD Pipeline for Containerized Applications | Building CI/CD pipelines for containerized applications. |
+|   20   | Module 3 - CICD Pipeline for Serverless Applications | Creating CI/CD pipelines for serverless applications. |
+|   21   | Module 3 - CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation | Implementing CI/CD pipelines with security considerations. |
+|   22   | Module 3 - Complete CICD Pipeline with Containerized Application | Hands-on experience with end-to-end containerized CI/CD pipelines. |
+|   23   | Module 3 - Complete CICD Pipeline with Serverless Application | Building comprehensive CI/CD pipelines for serverless apps. |
+|   24   | Module 3 - Capstone Project Coaching Session | Guidance and coaching for the capstone project. |
