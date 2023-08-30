@@ -56,24 +56,23 @@
 |   2    | Module 1 - Prev Material + Developer Tool Setup |      |
 |   3    | Module 1 - Prev Material + Simple Node Application |      |
 |   4    | Module 1 - Prev Material + Simple Node Application with Express |      |
-|   5    |        |      |
-|   6    |        |      |
-|   7    |        |      |
-|   8    |        |      |
-|   9    |        |      |
-|   10   |        |      |
-|   11   |        |      |
-|   12   |        |      |
-|   13   |        |      |
-|   14   |        |      |
-|   15   |        |      |
-|   16   |        |      |
-|   17   | Module 3 - Version Control - Workflow - Git |      |
-|   18   | Module 3 - Microservices and Containerized Application |      |
-|   19   | Module 3 - Microservices and Serverless Application |      |
-|   20   | Module 3 - CICD Pipeline for Containerized Applications |      |
-|   21   | Module 3 - CICD Pipeline for Serverless Applications |      |
-|   22   | Module 3 - CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
-|   23   | Module 3 - Complete CICD Pipeline with Containerized Application |      |
-|   24   | Module 3 - Complete CICD Pipeline with Serverless Application |      |
-|   25   | Module 3 - Capstone Project Coaching Session |      |
+|   5    | Module 1 -  |      |
+|   6    | Module 2 -  |      |
+|   7    | Module 2 -  |      |
+|   8    | Module 2 -  |      |
+|   9    | Module 2 -  |      |
+|   10   | Module 2 -  |      |
+|   11   | Module 2 -  |      |
+|   12   | Module 2 -  |      |
+|   13   | Module 2 -  |      |
+|   14   | Module 2/3 - Cloud Certification Self-Study |      |
+|   15   | Module 2/3 - Cloud Certification Self-Study |      |
+|   16   | Module 3 - Version Control - Workflow - Git |      |
+|   17   | Module 3 - Microservices and Containerized Application |      |
+|   18   | Module 3 - Microservices and Serverless Application |      |
+|   19   | Module 3 - CICD Pipeline for Containerized Applications |      |
+|   20   | Module 3 - CICD Pipeline for Serverless Applications |      |
+|   21   | Module 3 - CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
+|   22   | Module 3 - Complete CICD Pipeline with Containerized Application |      |
+|   23   | Module 3 - Complete CICD Pipeline with Serverless Application |      |
+|   24   | Module 3 - Capstone Project Coaching Session |      |
