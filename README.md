@@ -52,10 +52,10 @@
 
 | Number | Coaching Topic | Link |
 |--------|--------|------|
-|   1    | Prev Material + Github |      |
-|   2    | Prev Material + Developer Tool Setup |      |
-|   3    | Prev Material + Simple Node Application |      |
-|   4    | Prev Material + Simple Node Application with Express |      |
+|   1    | Module 1 - Prev Material + Github |      |
+|   2    | Module 1 - Prev Material + Developer Tool Setup |      |
+|   3    | Module 1 - Prev Material + Simple Node Application |      |
+|   4    | Module 1 - Prev Material + Simple Node Application with Express |      |
 |   5    |        |      |
 |   6    |        |      |
 |   7    |        |      |
@@ -68,12 +68,12 @@
 |   14   |        |      |
 |   15   |        |      |
 |   16   |        |      |
-|   17   |        |      |
-|   18   |        |      |
-|   19   |        |      |
-|   20   | CICD Pipeline for Containerized Applications |      |
-|   21   | CICD Pipeline for Serverless Applications |      |
-|   22   | CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
-|   23   | Complete CICD Pipeline with Containerized Application |      |
-|   24   | Complete CICD Pipeline with Serverless Application |      |
-|   25   | Capstone Project Coaching Session |      |
+|   17   | Module 3 - Version Control - Git |      |
+|   18   | Module 3 - Microservices and Containerized Application |      |
+|   19   | Module 3 - Microservices and Serverless Application |      |
+|   20   | Module 3 - CICD Pipeline for Containerized Applications |      |
+|   21   | Module 3 - CICD Pipeline for Serverless Applications |      |
+|   22   | Module 3 - CICD Pipeline with Secret Management & Package Vulnerability Scan Implementation |      |
+|   23   | Module 3 - Complete CICD Pipeline with Containerized Application |      |
+|   24   | Module 3 - Complete CICD Pipeline with Serverless Application |      |
+|   25   | Module 3 - Capstone Project Coaching Session |      |
