@@ -2,7 +2,7 @@
 
 ## Discord
 
-**Description**: Discord is the primary communication tool used in Rocket courses. It facilitates messaging across the school, within sections, and between individuals. Many tech companies globally use Discord for internal communications.
+**Description**: Discord is the primary communication tool used in Cloud Infrastructure Engineering courses. It facilitates messaging across the school, within sections, and between individuals. Many tech companies globally use Discord for internal communications.
 
 ### Installation
 
@@ -13,7 +13,7 @@
 
 ## Zoom
 
-**Description**: Zoom is the chosen video conferencing tool for classes in Rocket. Each section has its own dedicated Zoom room, the link to which can be found at the top of each section's Discord channel.
+**Description**: Zoom is the chosen video conferencing tool for classes in Cloud Infrastructure Engineering. Each section has its own dedicated Zoom room, the link to which can be found at the top of each section's Discord channel.
 
 ### Installation
 
