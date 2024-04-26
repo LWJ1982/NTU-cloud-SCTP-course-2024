@@ -1,5 +1,9 @@
 # Cloud Infrastructure Engineering Program
 
+
+## Please follow this instruction for the required software installation!
+https://github.com/su-ntu-ctp/6m-cloud-lesson-plan/edit/main/required-software.md
+
 **Lesson Materials**:
 
 | No. | Module Title | GitHub Repository |
