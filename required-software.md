@@ -77,7 +77,9 @@ sudo apt-get install ca-certificates  # Get SSL verification certificates
 
 Follow instructions at [https://brew.sh/](https://brew.sh/) to install Homebrew, a package manager for MacOS.
 
-#### Install and Configure Git
+---
+
+### Install and Configure Git
 
 ##### Windows/MacOS
 
@@ -145,9 +147,3 @@ Open the command prompt in VS Code (`Ctrl+Shift+P` on Windows, `Cmd+Shift+P` on 
 ### Setup Folder Structure for Cloud Insfrastructure Engineering Program
 
 Create a folder called `CE` and within it, create folders `m1`, `m2`, and `m3`for each module.
-
-### Sign Up for Accounts
-
-- Codecademy
-- LeetCode
-- HackerRank
