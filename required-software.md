@@ -50,11 +50,6 @@
 
 This document outlines the software required for the Cloud Insfrastructure Engineering Program. Please install this software before starting the course unless instructed otherwise.
 
-### Complete Fundamentals Setup
-
-- Install the latest version of **Windows or MacOS** that your computer supports.
-- Obtain and install the required hardware, software, and accounts for Fundamentals.
-
 ### [Windows Only] Install Windows-Specific Software
 
 #### Install and Setup Windows Subsystem for Linux (WSL)
