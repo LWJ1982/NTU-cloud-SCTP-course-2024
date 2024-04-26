@@ -1,4 +1,4 @@
-# ☝️ Required Software 1: GUI-Application Software
+# Required Software 1: GUI-Application Software
 
 ## Discord
 
